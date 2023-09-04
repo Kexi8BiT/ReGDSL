@@ -1,0 +1,6 @@
+flet
+requests
+asyncio
+pypresence
+subprocess
+shutil
